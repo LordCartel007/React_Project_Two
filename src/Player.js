@@ -37,7 +37,8 @@ const player = [
     nationality: "Portuguese",
     jerseyNumber: 7,
     age: 39,
-    Image: "https://images4.alphacoders.com/980/980283.jpg",
+    Image:
+      "https://c4.wallpaperflare.com/wallpaper/348/390/445/cristiano-ronaldo-kiev-ukraine-uefa-wallpaper-preview.jpg",
   },
 
   {
@@ -58,7 +59,8 @@ const player = [
     nationality: "British",
     jerseyNumber: 42,
     age: 21,
-    Image: "https://images4.alphacoders.com/124/1245133.jpg",
+    Image:
+      "https://w0.peakpx.com/wallpaper/577/925/HD-wallpaper-soccer-jamal-musiala.jpg",
   },
 
   {
@@ -68,7 +70,8 @@ const player = [
     nationality: "Congolese",
     jerseyNumber: 25,
     age: 21,
-    Image: "https://images6.alphacoders.com/117/thumb-1920-1178264.jpg",
+    Image:
+      "https://w0.peakpx.com/wallpaper/902/552/HD-wallpaper-soccer-eduardo-camavinga-real-madrid-c-f.jpg",
   },
 
   {
@@ -78,7 +81,7 @@ const player = [
     nationality: "Spanish",
     jerseyNumber: 8,
     age: 21,
-    Image: "https://images5.alphacoders.com/126/1266052.jpg",
+    Image: "https://wallpapercave.com/wp/wp13714930.jpg",
   },
 
   {
